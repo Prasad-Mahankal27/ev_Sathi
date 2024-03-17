@@ -36,7 +36,7 @@
 <!-- <meta-data android:name="com.phonepe.android.sdk.AppId" android:value="appId"/> -->
 <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyDSHQPWbkenC4piyRxbWe5CdFpvR23rAZA"/>
+        android:value="YOUR_API_KEY"/> <!--For security purpose, we haven't added API KEY on Github, but it is integrated in our app.-->
     </application>
     <!-- Required to query activities that can process text, see:
          https://developer.android.com/training/package-visibility?hl=en and
